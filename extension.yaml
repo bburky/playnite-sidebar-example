@@ -1,0 +1,7 @@
+﻿Id: SidebarExample_c353cd1b-67e2-49c1-b56a-aa8c0c247e82
+Name: Generic Plugin
+Author: John Doe
+Version: 1.0
+Module: SidebarExample.dll
+Type: GenericPlugin
+Icon: icon.png
